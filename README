@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=176
+
+Use Align.vim vimscript#294, it knows a lot more!
+
+It is a simple text aligner
+:'<,'>Lineup = to align your visually selected equations.
+
